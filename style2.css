@@ -1,0 +1,98 @@
+body {
+    background-color: #DCEAB2;
+}
+
+nav {
+    background-color: silver;
+    width: 75%;
+    height: 100px;
+    margin: 0% auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a {
+    margin: 10px;
+    padding: 10px;
+    font-size: x-large;
+}
+
+a:hover {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+img {
+    width: 129px;
+    height: 95px;
+}
+
+main {
+    border: 2px solid black;
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+
+    background-image: url(Skull.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#All {
+    background-color: black;
+    color: white;
+    width: 50%;
+    padding: 20px;
+    margin-top: 0px;
+    margin-left: 46%;
+}
+
+#Title {
+    margin-left: 56%;
+    text-decoration: underline;
+}
+
+#links {
+    margin-left: 55%;
+}
+
+#Change {
+    text-decoration: none;
+    color: black;
+}
+
+#CenterText {
+    text-align: center;
+    color: #15616D;
+    text-decoration: underline;
+}
+
+#CenterG {
+    margin-left: 25%;
+}
+
+#ExampleImg{
+    text-align: center;
+    color: #15616D;
+
+    margin-left: 30%;
+    width: 400px;
+    height: 400px;
+}
+#ExampleImg2{
+    text-align: center;
+    color: #15616D;
+
+    margin-left: 31%;
+    width: 400px;
+    height: 400px;
+}
+#ExampleImg3{
+    text-align: center;
+    color: #15616D;
+
+    margin-left: 31%;
+    width: 400px;
+    height: 400px;
+}
